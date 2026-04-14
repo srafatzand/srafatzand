@@ -4,13 +4,14 @@
 
 💼 [LinkedIn](https://linkedin.com/in/samyar-rafatzand) &nbsp;·&nbsp; 📧 samyar.rafatzand@mail.mcgill.ca
 
-Most of my projects are ideas that came from problems in my own life. If don't love the existing solutions, I try to build something better.
+Most of my projects are ideas that came from problems in my own life. If I don't love the existing solutions, I try to build something better.
 
---- featured projects
+---
+### Featured Projects
 
-**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay and streak tracking · *Swift*
+**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking · *Swift*
 
-**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — daily AI-generated news briefing across 7 personalized topics, delivered via Vercel Cron + Claude API · *TypeScript*
+**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning · *TypeScript*
 
 **[RéponSanté](https://github.com/srafatzand/repon-sante)** — asynchronous medical triage navigation for the 2 million Quebecers without a family doctor (hackathon team project)
 
@@ -18,8 +19,9 @@ Most of my projects are ideas that came from problems in my own life. If don't l
 
 ---
 
-This summer: research in Dr. Spicer's lab at the RI-MUHC (NETs, circulating tumor cells, metastasis).
-Long-term: medicine, with as many interesting detours as possible.
+Currently working on: thoracic cancer research at the RI-MUHC, shipping my first commercial product, getting my Brazilian Jiu-Jitsu blue belt.
+
+Long-term goal: medicine, with as many interesting detours as possible.
 
 *Open to internships and full-time roles in biotech, medtech, and AI. Feel free to reach out!*
 
