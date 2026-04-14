@@ -21,7 +21,7 @@ Most of my projects are ideas that came from problems in my own life. If don't l
 This summer: research in Dr. Spicer's lab at the RI-MUHC (NETs, circulating tumor cells, metastasis).
 Long-term: medicine, with as many interesting detours as possible.
 
-*Open to internships and full-time roles in biotech, medtech, and research. Feel free to reach out!*
+*Open to internships and full-time roles in biotech, medtech, and AI. Feel free to reach out!*
 
 
 <!--
