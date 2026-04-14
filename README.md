@@ -19,7 +19,7 @@ Most of my projects are ideas that came from problems in my own life. If I don't
 
 ---
 
-Currently working on: thoracic cancer research at the RI-MUHC, shipping my first commercial product, getting my Brazilian Jiu-Jitsu blue belt.
+Currently working on: shipping my first commercial product, thoracic cancer research at the RI-MUHC, starting a student wrestling club at McGill, getting my Brazilian Jiu-Jitsu blue belt.
 
 Long-term goal: medicine, with as many interesting detours as possible.
 
