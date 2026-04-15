@@ -9,9 +9,9 @@ Most of my projects are ideas that came from problems in my own life. If I don't
 ---
 ### Featured Projects
 
-**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking · *Swift*
+**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking
 
-**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning · *TypeScript*
+**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning
 
 **[RéponSanté](https://github.com/srafatzand/repon-sante)** — asynchronous medical triage navigation for the 2 million Quebecers without a family doctor (hackathon team project)
 
