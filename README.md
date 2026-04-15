@@ -9,11 +9,11 @@ Most of my projects are ideas that came from problems in my own life. If I don't
 ---
 ### Featured Projects
 
-**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking
+**[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking.
 
-**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning
+**[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning.
 
-**[RéponSanté](https://github.com/srafatzand/repon-sante)** — asynchronous medical triage navigation for the 2 million Quebecers without a family doctor (hackathon team project)
+**[RéponSanté](https://github.com/srafatzand/repon-sante)** — asynchronous medical triage navigation for the 2 million Quebecers without a family doctor (hackathon team project).
 
 **Lab Requisition Processor** *(private)* — automated pipeline using Python and GCF to process medical lab requisitions end-to-end, auto-generating bilingual patient quotes and saving significant staff time per request (developed during internship with ISMI Montreal).
 
