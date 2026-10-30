@@ -4,8 +4,6 @@
 
 💼 [LinkedIn](https://linkedin.com/in/samyar-rafatzand) &nbsp;·&nbsp; 📧 samyar.rafatzand@mail.mcgill.ca
 
-Most of my projects are ideas that came from problems in my own life. If I don't love the existing solutions, I try to build something better.
-
 ---
 ### Featured Projects
 
