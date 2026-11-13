@@ -7,6 +7,8 @@
 ---
 ### Featured Projects
 
+**Velox Sync** *(private)* — Playwright automation that syncs patient data between the clinic’s EMR and PACS every night, running in production and saving reception staff significant manual data entry each day (developed during internship with ISMI Montreal).
+
 **[Otium](https://github.com/srafatzand/Otium)** — native macOS menu bar focus timer with a fullscreen break overlay, analytics dashboard, and streak tracking.
 
 **[Morning Briefing](https://github.com/srafatzand/morning-briefing)** — an AI-generated news briefing across 7 personalized topics, delivered each morning.
