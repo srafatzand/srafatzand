@@ -1,6 +1,6 @@
 # Samyar Rafatzand
  
-**Honours CS & Biology Student and Management Minor @ McGill University (Expected 2028) · Montreal, QC**
+**Honours CS & Biology Student and Management Minor @ McGill University (Expected 2029) · Montreal, QC**
 
 💼 [LinkedIn](https://linkedin.com/in/samyar-rafatzand) &nbsp;·&nbsp; 📧 samyar.rafatzand@mail.mcgill.ca
 
